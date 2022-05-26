@@ -1,0 +1,78 @@
+main{
+  width: 1100px;
+  margin: 0 auto;
+}
+
+header{
+  width: 950px;
+  height: 25px;
+
+  padding: 20px;
+
+  background-color: gray;
+
+  color: white;
+}
+
+.slider{
+  width: 950px;
+  height: 250px;
+  background-color: orange;
+
+  padding: 20px;
+}
+
+.POne{
+  width: 475px;
+  height: 250px;
+  /* background-color: gray; */
+
+  float: left;
+  padding: 10px;
+}
+
+.PTwo{
+  width: 475px;
+  height: 250px;
+  /* background-color: darkcyan; */
+
+  float: left;
+  padding: 10px;
+}
+
+.boxOne{
+  width: 316px;
+  height: 250px;
+  background-color: darkcyan;
+
+  float: left;
+
+  padding: 5px;
+}
+
+.boxTwo{
+  width: 316px;
+  height: 250px;
+  background-color: gray;
+
+  float: left;
+  margin: 0px 10px 10px 10px;
+  padding: 5px;
+}
+
+.boxThree{
+  width: 316px;
+  height: 250px;
+  background-color: orangered;
+
+  float: left;
+  padding: 5px;
+}
+
+footer{
+  width: 950px;
+  height: 150px;
+  background-color: rgb(26, 26, 26);
+
+  padding: 20px;
+}
